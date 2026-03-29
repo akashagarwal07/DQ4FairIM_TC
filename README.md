@@ -7,9 +7,9 @@ This project implements a Deep Q-Network (DQN) with a fully trainable Structure2
 
 1. **Clone the repository and enter the directory:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
-
+   git clone https://github.com/akashagarwal07/DQ4FairIM_TC
+   cd DQ4FairIM_TC
+   
 2. **Install the dependencies:**
    ```bash
    pip install -r requirements.txt
