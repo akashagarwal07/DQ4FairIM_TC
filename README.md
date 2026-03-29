@@ -5,10 +5,10 @@ This project implements a Deep Q-Network (DQN) with a fully trainable Structure2
 
 ## Setup
 
-***Method - 1***
+***Method - 1 (preferred) :***
     Use the self-contained Google Colab notebook. Needs uploading of files in 'fairim/src' folder.
 
-***Method - 2***
+***Method - 2:***
 
 1. **Clone the repository and enter the directory:**
    ```bash
