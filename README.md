@@ -5,6 +5,11 @@ This project implements a Deep Q-Network (DQN) with a fully trainable Structure2
 
 ## Setup
 
+***Method - 1***
+    Use the self-contained Google Colab notebook. Needs uploading of files in 'fairim/src' folder.
+
+***Method - 2***
+
 1. **Clone the repository and enter the directory:**
    ```bash
    git clone https://github.com/akashagarwal07/DQ4FairIM_TC
